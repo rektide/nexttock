@@ -1,0 +1,12 @@
+{
+	"name": "nexttock",
+	"version": "0.0.0",
+	"description": "Back-off nextTick scheduling.",
+	"main": "nexttock.js",
+	"scripts": {
+		"test": "node nexttock.js"
+	},
+	"repository": "",
+	"author": "rektide",
+	"license": "MIT/X Dual"
+}
